@@ -1,0 +1,9 @@
+Sobre os métodos de ordenação, quais são os tipos de estruturas
+“ordenáveis”? O que deve ser feito para que uma estrutura possa ser
+“ordenável”?
+
+Os metodos BubbleSort, InsertionSort, SelectionSort, sao tipo de estrutura
+ordenaveis, onde pega um vetor com valores desordenados e coloca em ordem 
+por exemplo o BubbleSort que consiste em percorrer os N elementos de um vetor,
+ para cada vez percorrida, todos os elementos são comparados com o seu próximo, 
+para verificar se estão na ordem desejada.
